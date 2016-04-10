@@ -1,2 +1,2 @@
 The System should deposit money.
-The system should not deposit negative money.
+The system should not deposit negative money, only positive. 
