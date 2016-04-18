@@ -1,0 +1,4 @@
+The System should allow depositing money:
+
+1. The system should accept only numbers.
+2. The system should accept 7 figures only.
